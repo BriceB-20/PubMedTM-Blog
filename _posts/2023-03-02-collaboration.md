@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FOSS, DH, and the Future of the Internet - Part 1"
+title:  "On Collaboration"
 date:   2023-03-02 15:33:19 -0400
 categories: PubMedTM
 ---
