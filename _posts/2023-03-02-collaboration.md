@@ -1,11 +1,9 @@
 ---
 layout: post
 title:  "FOSS, DH, and the Future of the Internet - Part 1"
-date:   2023-03-08 18:33:19 -0400
+date:   2023-03-02 15:33:19 -0400
 categories: PubMedTM
 ---
-02 Mar 2023
-
 Scholars can hardly agree on what defines digital humanities (DH), but many agree that interdisciplinarity is a core feature. Much like the growing field of science and technology studies (STS), DH is more of an amalgamation of techniques, methodologies, and areas of interest that the academic community has chosen to stick under one somewhat arbitrary label to make work in the field more legible to the traditional university structure and external funding entities. Academics interested in DH are very quickly exposed to the numerous meanings of the term. They can often quickly understand what DH looks like in the context of their discipline, even if they don't fully grasp the depth and breadth of all DH work scholars are conducting in all other fields. At the same time, I have seen substantial commentary from DH scholars on the best practices for communicating with other academics outside of one's field. This commentary is often aimed at addressing difficulties with communication and collaboration between humanists and computer scientists. However, I have found that it can be challenging to explain my DH work to members of the public or people without graduate training in either the humanities or computer sciences—a problem not dissimilar to the challenges identified by scholars who study natural science communication (Carroll 2022). This piece reflects on two highlights from my recent experience trying to find collaborators for my DH project and, in the process, trying to explain my project to people outside of the humanities and social sciences.
 
 This saga begins with a post on the r/ProgrammingBuddies subreddit. As the name suggests, this subreddit is dedicated to finding buddies to work on programming projects. People frequently create posts seeking an accountability partner as they start online web developer training programs like the Odin Project. However, posters have also solicited collaborators interested in building commercial applications or tech startups. While I was familiar with the subreddit, I had never posted or engaged with any of the posts I'd seen before. I made a post that vaguely described my interest in doing a data science project using academic research papers. To my surprise, it quickly garnered several replies.
