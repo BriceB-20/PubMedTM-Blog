@@ -3,16 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Over the last year, I have worked on developing a public GUI for text mining a corpus of late twentieth century biomedical technology research papers. The focal point of this project is using a topic model to cluster research papers and track changes in the scientific community’s interest in different areas of medical inquiry. To innovate on this project, I proposed writing a “development diary” to describe the challenges and decisions I made while working on the project. I hoped this record would elucidate the interpretive work required to build a computational tool and prevent the project from becoming a “black box” to scholars less familiar with computational humanities or my development process.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I found that it took a lot of work to write articles for this development diary. The difficulty partially stemmed from my lack of familiarity with informal writing but also resulted from the time I spent overcoming one technical issue related to obtaining the dataset from the National Library of Medicine’s database at the beginning of the semester. However, while trying to find something to write about, I came across a new line of inquiry that I might like to pursue further in my research and writing. As I worked on the project, I increasingly became interested in the free and open-source (FOSS) tools and ideologies promoted by many of the developers I learned from. In two articles posted to this public blog, I attempted to critically examine FOSS ideology and its relation to the modern Internet and contemporary business practices. In doing so, I pushed my project forward by recontextualizing it through a FOSS framework and highlighting the continuities between FOSS ideology, minimal computing principles, and ideas about academic openness.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
